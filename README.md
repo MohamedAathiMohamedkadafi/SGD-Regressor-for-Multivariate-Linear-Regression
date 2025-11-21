@@ -72,13 +72,22 @@ print(Y_pred)
 
 <img width="768" height="291" alt="Screenshot 2025-11-21 140043" src="https://github.com/user-attachments/assets/b12773a6-f601-41b8-afed-bcdbddf63514" />
 
+
+
+
 <img width="571" height="330" alt="Screenshot 2025-11-21 140213" src="https://github.com/user-attachments/assets/54d99484-d912-48c0-9087-e66253da3448" />
+
+
 
 
 <img width="459" height="299" alt="Screenshot 2025-11-21 140228" src="https://github.com/user-attachments/assets/e3d4c50f-1f16-49ca-b6ee-0d4beb060b67" />
 
 
+
+
 <img width="272" height="159" alt="Screenshot 2025-11-21 140441" src="https://github.com/user-attachments/assets/ef9c0fe8-3e57-4138-966d-3ece20f9481d" />
+
+
 
 
 <img width="395" height="171" alt="Screenshot 2025-11-21 140450" src="https://github.com/user-attachments/assets/ffb14f32-4944-48cb-b961-c95ecfe8f73f" />
